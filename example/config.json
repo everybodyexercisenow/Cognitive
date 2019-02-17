@@ -1,0 +1,12 @@
+{
+  
+  "clientId": "EFqW_FgrrRZ3JLf7tPIUiA==",
+  "clientKey": "1Ys9nkAWheIoHf2VGU1iQkL0H3h6f7_J6WEEwfcCqQH69UBSap7a3p69AFDTu62maBNXMlK-pBl7tgEQqzl8kA==",
+  
+  "port": 3446,
+
+  "https": false,
+  "sslKeyFile": "server.key",
+  "sslCrtFile": "server.crt"  
+
+}

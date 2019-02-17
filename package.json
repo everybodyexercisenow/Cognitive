@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mic": "^2.1.1",
+    "okhound": "file:okhound-1.0.0.tgz"
+  }
+}

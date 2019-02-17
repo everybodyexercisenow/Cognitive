@@ -1,0 +1,6 @@
+{
+  "name": "okhound",
+  "version": "1.0.0",
+  "description": "'Ok Hound' phrase spotter.",
+  "main": "okhound.node"
+}

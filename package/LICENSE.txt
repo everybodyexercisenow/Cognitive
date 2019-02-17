@@ -1,0 +1,5 @@
+(c) 2017 - SoundHound, Inc.  All rights reserved.  
+This software and all accompanying materials are the exclusive property of SoundHound 
+and its licensors and is licensed under the terms of the Houndify API Agreement
+located at http://www.houndify.com/terms unless a separate written agreement is made
+between you and SoundHound directly that expressly supersedes the Houndify API Agreement.
